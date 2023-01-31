@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:kareem-zarif/third-repo.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
